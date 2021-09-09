@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on expanding my skill set
+- 🌱 I’m currently learning AWS Athena
+- 👯 I’m looking to collaborate on any open source project
+- 💬 Ask me about my projetcs
+- ⚡ Fun fact: YNWA :soccer:
+
+Let's connect!
+
+
 <!--
 **Tobsam237/Tobsam237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
