@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS Athena
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about my projetcs
-- ⚡ Fun fact: YNWA :soccer:
+- ⚡ Fun fact: YNWA :soccer
 ---
 Let's connect!
 
