@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 - 🔭 I’m currently working on expanding my skill set
-- 🌱 I’m currently preparing for the AWS Data Analytics Certification Exam
+- 🌱 I’m currently preparing for the AWS Machine Learning Certification Exam
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about my projetcs
 - ⚡ Fun fact: YNWA :soccer
